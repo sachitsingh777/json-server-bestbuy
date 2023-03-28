@@ -1,0 +1,25 @@
+{
+  "name": "json-server-bestbuy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachitsingh777/json-server-bestbuy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachitsingh777/json-server-bestbuy/issues"
+  },
+  "homepage": "https://github.com/sachitsingh777/json-server-bestbuy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
