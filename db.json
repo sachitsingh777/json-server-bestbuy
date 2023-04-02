@@ -1849,6 +1849,37 @@
         "brand":"dell"
       }
     ],
-    "AdminUser":[],
+    "AdminUser":[
+      {
+ " id":1,
+  "fullname":"Amir Khan",
+  "email":"amiretw2017@gmail.com",
+  "phone":"7983007098",
+  "image":"https://media.licdn.com/dms/image/C5103AQEwdHMODMqvzg/profile-displayphoto-shrink_200_200/0/1579413620470?e=1686182400&v=beta&t=OIJgrT7hN4kvtQ_8RYKs2zrpahC-zj3iufMFI6dLsC0",
+  "student":""
+},{
+ " id":2,
+  "fullname":"Gyan Prakash",
+  "email":"gyan2501998@gmail.com",
+  "phone":"7779898987",
+  "image":"https://ca.slack-edge.com/T04QH584W4W-U04RPUK7KDX-6d2460936ab3-512",
+  "student":"fp06_149"
+},{
+ " id":3,
+  "fullname":"Sacchitanand Singh",
+  "email":"Sachitsingh777@gmail.com",
+  "phone":"8982934227",
+  "image":"https://avatars.githubusercontent.com/u/115461355?v=4",
+  "student":"fw23_0339"
+}
+,{
+ " id":1,
+  "fullname":"Reddyvari Tejeshkumarreddy",
+  "email":"reddyvaritejeshkumarreddy@gmail.com",
+  "phone":"9133826592",
+  "image":"https://avatars.githubusercontent.com/u/110104180?v=4",
+  "student":""
+}
+    ],
     "Dummy":[]
 }
