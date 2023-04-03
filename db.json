@@ -1714,30 +1714,6 @@
         "end": "Available to ship",
         "category": "TV",
       "brand":"Amazon"
-      },
-      {
-        "id": 70,
-        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15745/15745797.jpg",
-        "title": "Amazon Kindle Paperwhite 8GB 6.8'' Digital eReader with Touchscreen (B08N36XNTT) - Black",
-        "rate": "⭐⭐⭐⭐⭐(3 Reviews)",
-        "top": "Top Deal",
-        "price": 124.99,
-        "save": "25",
-        "end": "Available to ship",
-        "category": "phone",
-      "brand":"Amazon"
-      },
-      {
-        "id":33,
-        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/160/16022/16022243.jpg",
-        "title": "Dell G15 15.6'' Gaming Laptop -Blck (Intel Core i7-12700H/512Gb..",
-        "rate":"",
-        "review":0,
-        "top":"",
-        "save":"",
-        "price":1899.99,
-        "category": "laptop",
-        "brand":"dell"
       }
     ],
     "OrderDetail":[
@@ -1752,30 +1728,6 @@
         "end": "Available to ship",
         "category": "TV",
       "brand":"Amazon"
-      },
-      {
-        "id": 70,
-        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15745/15745797.jpg",
-        "title": "Amazon Kindle Paperwhite 8GB 6.8'' Digital eReader with Touchscreen (B08N36XNTT) - Black",
-        "rate": "⭐⭐⭐⭐⭐(3 Reviews)",
-        "top": "Top Deal",
-        "price": 124.99,
-        "save": "25",
-        "end": "Available to ship",
-        "category": "phone",
-      "brand":"Amazon"
-      },
-      {
-        "id":33,
-        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/160/16022/16022243.jpg",
-        "title": "Dell G15 15.6'' Gaming Laptop -Blck (Intel Core i7-12700H/512Gb..",
-        "rate":"",
-        "review":0,
-        "top":"",
-        "save":"",
-        "price":1899.99,
-        "category": "laptop",
-        "brand":"dell"
       }
     ],
     "AdminUser":[
